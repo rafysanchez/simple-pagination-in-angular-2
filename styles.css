@@ -1,0 +1,8 @@
+.navbar-nav a.active {
+    background-color: #e7e7e7 !important;
+    color: #555 !important;
+}
+
+.ng2-pagination li span, .ng2-pagination li a {
+    font-size: 22px;
+}
